@@ -1,0 +1,5 @@
+pygame~=2.6.1
+mediapipe~=0.10.21
+numpy~=1.26.4
+jax~=0.6.0
+scipy~=1.15.2
